@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1508156505 source:d:\jakuborlowski\cw3\cw3.1\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<stdexcept>
+	<string>
+	<sstream>
+	<algorithm>
+
